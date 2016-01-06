@@ -15,7 +15,7 @@ https://www.hipchat.com/docs/apiv2
 HipChat uses OAuth tokens for authentication, you can create tokens by going to https://silintl.hipchat.com/account/api
 
 # Install #
-Installation is simple with [Composer](https://getcomposer.org/). Add ```"silinternational/hipchat-php-client", "dev-master"``` to your ```composer.json``` file and update.
+Installation is simple with [Composer](https://getcomposer.org/). Add ```"silinternational/hipchat-php-client": "dev-master"``` to your ```composer.json``` file and update.
 
 # Usage #
 Example:
