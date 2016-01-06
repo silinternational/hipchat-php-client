@@ -22,13 +22,13 @@ Example:
 ```php
 <?php
 
-use HipChat\User;
+use HipChat\UserClient;
 
-$user = new User([
+$client = new UserClient([
   
 ]);
 
-$user = $org->addMember([
+$user = $client->createUser([
     'name' => 'Test User',
     'mention_name' => 'TestUser',
     'email' => 'testuser@testdomain.com',
