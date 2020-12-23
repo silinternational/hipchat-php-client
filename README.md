@@ -1,3 +1,5 @@
+# ⛔️ This repository is no longer maintained. ⛔️
+
 # hipchat-php-client
 PHP client to interact with the HipChat v2 API.
 
